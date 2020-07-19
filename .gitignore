@@ -1,0 +1,8 @@
+/原来的sh文件/
+/dopamine/result/
+*/__pycache__/
+/dopamine/agents/implicit_quantile/
+/dopamine/agents/rainbow/
+/MarkovChain/
+/dopamine/agents/dqn/configs/原来的gin/
+/home/scu/InternalSupplementalActionMeasurement/dopamine/123/
